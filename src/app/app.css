@@ -1,0 +1,28 @@
+nav {
+  font-size: 24px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: fit-content;
+  padding-bottom: 5px;
+  background-color: rgb(56, 66, 70);
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 15px;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 32px;
+}
+  
+hr {
+  border: 1px solid rgb(153, 147, 147);
+}

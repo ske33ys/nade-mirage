@@ -1,0 +1,8 @@
+aktualizacja pliku na github:
+ git push
+ ng build --configuration production
+ ng deploy --base-href=/nades-mirage/
+
+commit:
+  git add .
+  git commit -m "nazwa_commitu"
